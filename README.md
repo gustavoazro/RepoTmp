@@ -1,5 +1,5 @@
 #Repositorio Temporario
 
-![./katana.jpg](Katana)
+![katana.jpg](Katana)
 
 Este repositório serve como teste
