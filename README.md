@@ -4,4 +4,4 @@
 
 Este repositório serve como teste
 
-[Markdown](https://github.com/gustavoazro/repo-tmp/blob/master/MD.md)
+[Markdown](/repo-tmp/blob/master/MD.md)
